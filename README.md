@@ -7,3 +7,6 @@ Multi-threading can be done to improve it. In multi-threading, instead of utiliz
 We create different threads, each thread evaluating some part of matrix multiplication. 
 
 Depending upon the number of cores your processor has, you can create the number of threads required. Although you can create as many threads as you need, a better way is to create each thread for one core.
+
+## Usage
+To run the code, simply execute the ***multi_threading_matrix_multiplication.py*** script. Make sure you have the required dependencies installed (NumPy, Matplotlib, Pandas).
